@@ -3,7 +3,7 @@
 - 
 - 👀 I’m interested in python
 - 🌱 I’m currently learning and sharing my knowledge to everyone
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me:
 - gmail: bachpingpong@gmail.com
 - youtube: https://www.youtube.com/channel/UCoHe9BLDcuzdCUxBqZ2FLyw
