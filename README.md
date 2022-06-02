@@ -7,6 +7,7 @@
 - 📫 How to reach me:
 - gmail: bachpingpong@gmail.com
 - youtube: https://www.youtube.com/channel/UCoHe9BLDcuzdCUxBqZ2FLyw
+- scratch: https://scratch.mit.edu/users/master-12/
 
 <!---
 bachptnk/bachptnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
