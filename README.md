@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bach
 - I am studying in HIGH SCHOOL FOR THE GIFTED - VNU, Ho Chi Minh city
-- ![WIN_20220505_17_12_22_Pro](https://user-images.githubusercontent.com/91135899/170874959-4d7f2d3c-9df5-4ad0-a84d-7edd055618de.jpg)
+![WIN_20220619_16_19_16_Pro](https://user-images.githubusercontent.com/91135899/176345140-8d9ecac8-924c-41df-95b5-cdec40000f13.jpg)
+
 - 👀 I’m interested in python
 - 🌱 I’m currently learning and sharing my knowledge to everyone
 - 💞️ I’m looking to collaborate on you
